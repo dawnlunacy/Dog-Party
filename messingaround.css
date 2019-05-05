@@ -1,0 +1,85 @@
+*{
+	box-sizing:border-box;
+	border:red solid 1px;
+}
+
+body{
+	background: url(![park](https://user-images.githubusercontent.com/47537744/57019267-3c01a600-6be3-11e9-8c6c-76c8b690c137.jpg)
+    background-size:1030px;
+    background-repeat:no-repeat;
+	width:1030px;
+	margin:0 auto;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#nav{
+	background-color:#75e2e6;
+	height:60px;
+	width:1030px;
+}
+
+#logoimg{
+	float:left;
+	width:45px;
+	height:45px;
+	padding:5px;
+}
+
+.menuitem{
+	display:inline;
+	padding:10px;
+	float:right;
+	margin:5px;
+	
+}
+
+.hero{
+
+  float:center;
+  width:1030px;
+  margin:0 auto;
+}
+
+.mainheading{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+
+}
+
+}
+
+.circledog{
+
+}
+
+.maincontent{
+
+}
+
+.column{
+	float:left;
+	width: 33.33%;
+}
+
+.row:after{
+	content:"";
+	display:table;
+	clear: both;
+}
+
+.button{
+
+}
+
+#footer{
+
+}
+h2 {
+	text-align:center;
+}
+
+img{
+	display: block; 
+	margin: auto;}
